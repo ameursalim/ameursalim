@@ -24,8 +24,7 @@
   <br/>
   <h2>My latest Work</h2>
   <pre backgroundColor="#ffffff" align="center"><a href="http://my-zoomba.herokuapp.com">
-  <img src="https://res.cloudinary.com/dd6enjauo/image/upload/v1606769943/Readme/myzoomba.png" width=300></a>                
-  <a href="https://lensproject.herokuapp.com"><img src="https://res.cloudinary.com/dd6enjauo/image/upload/v1606769882/Readme/contact.lens.png" width=300></a></pre>
+  <img src="https://res.cloudinary.com/dd6enjauo/image/upload/v1606769943/Readme/myzoomba.png" width=300></a>               <a href="https://lensproject.herokuapp.com"><img src="https://res.cloudinary.com/dd6enjauo/image/upload/v1606769882/Readme/contact.lens.png" width=300></a></pre>
 
 
   <br/>
