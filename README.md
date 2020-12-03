@@ -1,6 +1,6 @@
 ## Hey, I'm Salim a FrontEnd developer 👋
 
-
+</br>
 - 🥅 2020 Goals: upgrade my frontend slikks and Contribute more to Open Source projects 
 </br>
 - ⚡ Fun fact: I use to be an 400m runner
