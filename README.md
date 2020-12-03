@@ -1,15 +1,12 @@
 ## Hey, I'm Salim a FrontEnd developer 👋
 
-</br>
-- 👯 I’m looking to collaborate with other content creators
-</br>
+
 - 🥅 2020 Goals: upgrade my frontend slikks and Contribute more to Open Source projects 
 </br>
 - ⚡ Fun fact: I use to be an 400m runner
 </br>
 
 <p align ="center">
-  <img src="https://res.cloudinary.com/dd6enjauo/image/upload/v1606771670/Readme/myAvatar_1_lvvt5z.png" width=70>
   <br><br>
   <samp>
     From finance to dev path ... so let's be honest just moving from a dark side to an other one ... and i like it  💻 
