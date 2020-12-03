@@ -28,10 +28,10 @@
 - An App  where you can template your own emails <br/>
 
   <br/>
-<h2>Contact</h2>
+<h2>📫 How to reach me:t</h2>
 <p>💼 Find me on <a href="https://www.linkedin.com/in/salimameur/">LinkedIn</a></p>
 
-<p>👩🏼‍💻 Take a look at my <a href="https://github.com/ameursalim">GitHub</a></p>
+<p>💻 Take a look at my <a href="https://github.com/ameursalim">GitHub</a></p>
 <br/>
 
 <!--
