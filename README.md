@@ -1,7 +1,5 @@
-## Hey, I'm Salim a FrontEnd Samurai 👋
+## Hey, I'm Salim a FrontEnd developer 👋
 
-<br>
-- 🌱 I’m currently learning everything 🤣
 </br>
 - 👯 I’m looking to collaborate with other content creators
 </br>
@@ -30,7 +28,7 @@
   <br/>
 <h2>Current projects</h2>
  <samp>- A covid app that display different  user friendly data <br/>
-- A personal project  where you can template your own emails <br/>
+- An App  where you can template your own emails <br/>
 
   <br/>
 <h2>Contact</h2>
